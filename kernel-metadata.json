@@ -4,12 +4,12 @@
   "code_file": "test.ipynb",
   "language": "python",
   "kernel_type": "notebook",
-  "is_private": "true",
+  "is_private": "false",
   "enable_gpu": "false",
   "enable_tpu": "false",
   "enable_internet": "true",
   "dataset_sources": [],
-  "competition_sources": [],
+  "competition_sources": ["walmart-recruiting-store-sales-forecasting"],
   "kernel_sources": [],
   "model_sources": []
 }
