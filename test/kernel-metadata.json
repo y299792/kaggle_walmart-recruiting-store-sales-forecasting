@@ -1,0 +1,24 @@
+{
+  "id": "y299792/eng-jap-test-notebook",
+  "id_no": 59347760,
+  "title": "[ENG/JAP] test notebook",
+  "code_file": "test.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data analytics",
+    "english",
+    "japanese",
+    "japan"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "walmart-recruiting-store-sales-forecasting"
+  ],
+  "model_sources": []
+}
